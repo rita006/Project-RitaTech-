@@ -9,4 +9,4 @@ Site pessoal desenvolvido com HTML e CSS puro.
 - Claude (apenas assistencia)
 
 ## Acesse
-[rita-tech.github.io/rita-tech](https://rita006.github.io/rita-tech)
+[https://rita-tech.netlify.app/](https://rita-tech.netlify.app/)
